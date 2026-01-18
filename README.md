@@ -4,7 +4,7 @@ Mechatronics and Robotics Developer. I am building the future of smart systems u
 
 ---
 
-### 🚀 Technology Roadmap (2026 - 2029)
+###  Technology Roadmap (2026 - 2029)
 *16 Projects, 1 Vision: Engineering the Future.*
 
 | # | Project Name | Category | Timeline | Status |
@@ -26,12 +26,12 @@ Mechatronics and Robotics Developer. I am building the future of smart systems u
 | 15 | **Smart Watch AI Assistant** | AI/LLM | Dec 2, 2028 - Mar 1, 2029 |  Upcoming |
 | 16 | **Productization & Incorporation** | Startup | Mar 2 - Jul 1, 2029 |  Final Goal |
 
-### 🛠️ Technical Skill Set
+###  Technical Skill Set
 - **Programming:** C++, Python, JavaScript
 - **Hardware:** IoT Systems, Robotics, Arduino/Microcontrollers, PCB Design
 - **Management:** Process Management, Educational Consulting (ELT)
 
-### 🏆 Achievements
+###  Achievements
 - **CIU Hackathon 2025:** Project Development & Presentation Certificate
 - **Education Consultant:** ELT International Education Inc.
 
